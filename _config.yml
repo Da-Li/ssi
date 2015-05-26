@@ -2,7 +2,7 @@ encoding: utf-8
 
 permalink : /:categories/:title.html
 markdown: kramdown
-baseurl: /test
+baseurl: /ssi
 
 # paginate: 5
 # paginate_path: "page:num"
